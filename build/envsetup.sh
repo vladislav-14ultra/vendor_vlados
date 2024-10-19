@@ -57,7 +57,7 @@ function brunch()
 {
     breakfast $*
     if [ $? -eq 0 ]; then
-        mka nofreedl
+        mka nofreeedl
     else
         echo "No such item in brunch menu. Try 'breakfast'"
         return 1
@@ -738,7 +738,7 @@ function cmka() {
     if [ ! -z "$1" ]; then
         for i in "$@"; do
             case $i in
-                nofreedl|otapackage|systemimage)
+                nofreeedl|otapackage|systemimage)
                     mka installclean
                     mka $i
                     ;;

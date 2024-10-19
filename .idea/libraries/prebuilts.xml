@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="prebuilts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_rr.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_evo_reveal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_google.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_google_monet.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_pac.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_slim.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_valorant.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_du.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_cyberpunk.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_cm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_ctos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootanimation/prebuilts/bootanimation_aokp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
