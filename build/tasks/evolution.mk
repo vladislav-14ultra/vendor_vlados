@@ -28,5 +28,5 @@ $(LINEAGE_TARGET_PACKAGE): $(INTERNAL_OTA_PACKAGE_TARGET)
 	$(hide) ./vendor/lineage/build/tasks/ascii_output.sh
 	@echo "Package Complete: $(LINEAGE_TARGET_PACKAGE)" >&2
 
-.PHONY: evolution
-evolution: $(LINEAGE_TARGET_PACKAGE) $(DEFAULT_GOAL)
+.PHONY: vlad
+vlad: $(LINEAGE_TARGET_PACKAGE) $(DEFAULT_GOAL)
