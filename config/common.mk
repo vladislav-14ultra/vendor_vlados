@@ -13,7 +13,7 @@ $(call inherit-product, vendor/pixel-style/config/common.mk)
 DONT_DEXPREOPT_PREBUILTS := true
 endif
 
-PRODUCT_BRAND ?= EvolutionX
+PRODUCT_BRAND ?= VladOS
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 
