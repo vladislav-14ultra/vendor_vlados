@@ -1,4 +1,4 @@
-chmod +x vendor/lineage/build/tasks/ascii_output.sh
+chmod 777 vendor/lineage/build/tasks/ascii_output.sh
 
 function __print_lineage_functions_help() {
 cat <<EOF
