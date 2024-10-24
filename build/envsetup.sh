@@ -1,4 +1,5 @@
 chmod +x build/tasks/ascii_output.sh
+
 function __print_lineage_functions_help() {
 cat <<EOF
 Additional LineageOS functions:
